@@ -1,0 +1,5 @@
+Hello --> open palm 
+Like --> thums up
+Pointer --> index-finger pointing
+Dislike --> thumbs down
+Victory --> two finger (index and middle finger)
